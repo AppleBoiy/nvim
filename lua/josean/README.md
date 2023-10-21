@@ -4,18 +4,19 @@ _**"Portions of this code were originally created by [Josean][josean] and are us
 
 ## Disclaimer
 
-**IMPORTANT:** All of files inside `lua/josean` folder is part of the [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) project and is not intended for standalone use. If you wish to utilize my Neovim configuration, please clone `this repository` and follow the instructions. If you're interested in the original configuration, please refer to [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files).
+**IMPORTANT:** The files within the `lua/josean` folder are part of the [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) project and are not intended for standalone use. If you want to use my Neovim configuration, please clone this repository and follow the provided instructions. If you're interested in the original configuration, please refer to [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files).
 
-### About the LICENSE
+### Regarding Licensing
 
-The code in `lua/josean` and `after/queries` is provided without a specified open-source license. It is the work of [Josean][josean], and I acknowledge and appreciate his contribution.
+The code contained in the `lua/josean` and `after/queries` directories is made available without a specific open-source license. This code is the work of [Josean][josean], and I want to acknowledge and appreciate his contributions.
 
-If you wish to use or modify this code, I kindly request that you give proper attribution to [Josean][josean] by including the following attribution in your project:
+If you plan to use or modify this code, I kindly ask that you provide proper attribution to [Josean][josean] by including the following statement in your project:
 
+```text
 "Portions of this code were originally created by [Josean][josean] and are used under the terms provided by the original author."
+```
 
-While there is no explicit license, I respect [Josean][josean]'s intellectual property rights and encourage users to do the same. It's always good practice to respect the original author's work and give credit where it's due.
-
+Although there is no explicit license, I respect [Josean][josean]'s intellectual property rights and encourage others to do the same. It's always good practice to honor the original author's work and give credit where it's due.
 
 [josean]: https://github.com/josean-dev
 
