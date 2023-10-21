@@ -1,14 +1,18 @@
+_**"Portions of this code were originally created by [Josean][josean] and are used under the terms provided by the original author."**_
+
 ## Disclaimer
 
 **IMPORTANT:** All of files inside `lua/josean` folder is part of the [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) project and is not intended for standalone use. If you wish to utilize my Neovim configuration, please clone `this repository` and follow the instructions. If you're interested in the original configuration, please refer to [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files).
 
 ### About the LICENSE
 
-The code in `lua/josean` is provided without a specified open-source license. If you wish to use or modify this code, please follow the steps below:
+The code in `lua/josean` and `after/queries` is provided without a specified open-source license. It is the work of [Josean][josean], and I acknowledge and appreciate his contribution.
 
-1. Contact [Josean-dev][josean] (the repository owner) and request permission to use the code for your intended purpose.
-2. Await a response and clarification regarding the licensing terms from [Josean][josean].
-3. Once you receive permission and agree upon the terms, ensure that you adhere to the specified conditions.
-4. If [Josean][josean] provides an open-source license, follow the guidelines and conditions outlined in that license.
+If you wish to use or modify this code, I kindly request that you give proper attribution to [Josean][josean] by including the following attribution in your project:
+
+"Portions of this code were originally created by [Josean][josean] and are used under the terms provided by the original author."
+
+While there is no explicit license, I respect [Josean][josean]'s intellectual property rights and encourage users to do the same. It's always good practice to respect the original author's work and give credit where it's due.
+
 
 [josean]: https://github.com/josean-dev
