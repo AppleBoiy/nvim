@@ -24,20 +24,13 @@ To use my personal Neovim configuration, follow these steps:
 
 ### Regarding Licensing
 
-The code contained in the `lua/josean` and `after/queries` directories is made available without a specific open-source license. This code is the work of [Josean][josean], and I want to acknowledge and appreciate his contributions.
+The code in `lua/josean` and `after/queries` is provided without a specified open-source license. It is the work of [Josean][josean], and I acknowledge and appreciate his contribution.
 
-If you plan to use or modify this code, I kindly ask that you provide proper attribution to [Josean][josean] by including the following statement in your project:
+If you wish to use or modify this code, I kindly request that you give proper attribution to [Josean][josean] by including the following attribution in your project:
 
-```text
 "Portions of this code were originally created by [Josean][josean] and are used under the terms provided by the original author."
-```
 
-Although there is no explicit license, I respect [Josean][josean]'s intellectual property rights and encourage others to do the same. It's always good practice to honor the original author's work and give credit where it's due.
+While there is no explicit license, I respect [Josean][josean]'s intellectual property rights and encourage users to do the same. It's always good practice to respect the original author's work and give credit where it's due.
 
----
-
-Get help: [Contact me!](mailto:contact.chaipat@gmail.com) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 AppleBoiy &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](LICENSE)
 
 [josean]: https://github.com/josean-dev
