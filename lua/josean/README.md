@@ -2,8 +2,6 @@
 
 _**"Portions of this code were originally created by [josean-dev][josean] and are used under the terms provided by the original author."**_
 
-**IMPORTANT:** The files within the `lua/josean` folder are part of the [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) project and are not intended for standalone use. If you're interested in the original configuration, please refer to [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files).
-
 ## Neovim Setup
 
 **Important**: This is my latest config with lazy.nvim. It is similar, but not the same as my original packer setup.
