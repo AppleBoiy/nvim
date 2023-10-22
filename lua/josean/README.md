@@ -159,12 +159,6 @@ xcode-select --install
 
 The code contained in the `lua/josean` and `after/queries` directories is made available without a specific open-source license. This code is the work of [josean-dev][josean], and I want to acknowledge and appreciate his contributions.
 
-If you plan to use or modify this code, I kindly ask that you provide proper attribution to [josean-dev][josean] by including the following statement in your project:
-
-```text
-"Portions of this code were originally created by josean-dev and are used under the terms provided by the original author."
-```
-
 Although there is no explicit license, I respect [josean-dev][josean]'s intellectual property rights and encourage others to do the same. It's always good practice to honor the original author's work and give credit where it's due.
 
 [josean]: https://github.com/josean-dev
