@@ -4,7 +4,7 @@
 
 </div>
 
-_**"Portions of this code were originally created by [josean-dev-dev][josean-dev] and are used under the terms provided by the original author."**_
+_**"Portions of this code were originally created by [josean-dev][josean-dev] and are used under the terms provided by the original author."**_
 
 ### Installation
 
