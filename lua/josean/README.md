@@ -1,6 +1,7 @@
 # Josean-dev's Neovim Configuration
 
-_**"Portions of this code were originally created by [josean-dev][josean] and are used under the terms provided by the original author."**_
+> **NOTE**
+> _**"Portions of this code were originally created by [josean-dev][josean] and are used under the terms provided by the original author."**_
 
 ## Neovim Setup
 
@@ -153,7 +154,6 @@ xcode-select --install
 
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Show line modifications on left hand side
 
----
 
 ## Disclaimer
 
