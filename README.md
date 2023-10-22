@@ -4,7 +4,8 @@
 
 </div>
 
-_**"Portions of this code were originally created by [josean-dev][josean-dev] and are used under the terms provided by the original author."**_
+> **NOTE**
+> _**"Portions of this code were originally created by [josean-dev][josean-dev] and are used under the terms provided by the original author."**_
 
 ### Installation
 
@@ -18,7 +19,7 @@ To use my personal Neovim configuration, follow these steps:
 
 2. Open Neovim and let it install any required plugins. You may need to restart Neovim for the changes to take effect.
 
-## Disclaimer
+### Disclaimer
 
 The code contained in the `lua/josean` and `after/queries` directories is made available without a specific open-source license. This code is the work of [josean-dev][josean-dev], and I want to acknowledge and appreciate his contributions.
 
