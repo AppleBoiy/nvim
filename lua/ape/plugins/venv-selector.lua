@@ -9,16 +9,16 @@ return {
             -- name = "venv",
             -- auto_refresh = false
         })
+
+        local keymap = vim.keymap
+
+        keymap.set("n", "<leader>vs", "<cmd>VenvSelect<CR>", { desc = "open VenvSelector to pick a venv." })
+        keymap.set(
+            "n",
+            "<leader>vc",
+            "<cmd>VenvSelectCached<CR>",
+            { desc = "retrieve the venv from a cache (the one previously used for the same project directory)." }
+        )
     end,
     event = "VeryLazy", -- Optional: needed only if you want to type `:VenvSelect` without a keymapping
-    keys = {
-        {
-            -- Keymap to open VenvSelector to pick a venv.
-            "<leader>vs",
-            "<cmd>:VenvSelect<cr>",
-            -- Keymap to retrieve the venv from a cache (the one previously used for the same project directory).
-            "<leader>vc",
-            "<cmd>:VenvSelectCached<cr>",
-        },
-    },
 }
