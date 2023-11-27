@@ -7,7 +7,7 @@ return {
             anaconda_envs_path = "/opt/homebrew/Caskroom/miniconda/base/envs",
             -- Your options go here
             -- name = "venv",
-            -- auto_refresh = false
+            auto_refresh = true,
         })
 
         local keymap = vim.keymap
